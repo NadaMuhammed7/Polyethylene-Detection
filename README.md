@@ -1,4 +1,4 @@
-# PE Contamination Detection — Prometeon TTM902
+# PE Contamination Detection
 
 Real-time computer vision pipeline for detecting polyethylene (PE) film 
 contamination on tire manufacturing machines at Prometeon's Milan plant.
