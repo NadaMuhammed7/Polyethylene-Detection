@@ -46,4 +46,7 @@ these constraints.
 - Windows, USB camera (RTSP-ready)
 
 ## Demo
-[Insert demo video or GIF here]
+<img width="600" height="337" alt="image" src="https://github.com/user-attachments/assets/e92d6348-3e18-4e52-9c69-22246d4c5ac8" />
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/7aa8443c-fc45-4c20-9f92-7f69604e3c78" />
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/55570202-bd4e-4c61-8fc1-848acceb05ac" />
+
